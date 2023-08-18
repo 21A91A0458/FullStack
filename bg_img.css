@@ -1,0 +1,35 @@
+body{
+	background-image: url("bg.jpeg");
+/*	background-size:cover;*/
+	background-repeat: no-repeat;
+	background-set:cover;
+}
+/*}*/
+/*div{*/
+/*    display: inline-block;*/
+/*	height: 300px;*/
+/*	width:400px;*/
+/*	background-color: blue;*/
+/*	padding: 130px;*/
+/*	outline: 10px dotted red;*/
+/*    marigin:10px;*/
+/*    box-sizing: border-box;*/
+	
+/*}*/
+/*div{*/
+	height: 200px;
+	width: 500px;
+	background-color: gray;
+	margin: 20px;
+}
+.valli{
+	height: 80px;
+	width: 400px;
+	background-color: blue;
+	outline:10px dashed green;
+	padding: 40px;
+	margin: 20px;
+*/
+
+
+}

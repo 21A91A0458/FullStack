@@ -1,0 +1,164 @@
+div{
+	height:600px;
+	width:800px;
+	background-color: whitesmoke;
+/*	margin-top:60px;*/
+}
+.a{
+	height:60px;
+	width:800px;
+	background-color:navajowhite;
+	padding:20px 30px 20px 25px;
+	pa
+}
+.m{
+	border:5px solid red;
+	background-color: red;
+	border-radius: 2px;
+	border-radius:20px;
+}
+.n{
+	border:5px solid skyblue;
+	background-color: skyblue;
+	border-radius: 2px;
+	border-radius:20px;
+}
+.q{
+	border:5px solid skyblue;
+	background-color: skyblue;
+	border-radius: 1px;
+	border-radius:20px;
+}
+.r{
+	border:5px solid skyblue;
+	background-color: skyblue;
+	border-radius: 2px;
+	border-radius:20px;
+}
+.y{
+	border:5px solid green;
+	background-color: green;
+	border-radius: 2px;
+	border-radius:20px;
+}
+*{
+	margin: 0px;
+	padding:0px;
+	box-sizing: border-box;
+
+}
+.b{
+	height:430px;
+	width:300px;
+	background-color:white;
+	float:left;
+	margin-left:15px;
+	margin-top:19px;
+	padding:20px;
+	text-align:center;
+	color:gray;
+}
+.j{
+	border:2px solid blue;
+	background-color: white;
+	border-radius: 2px;
+/*	border-radius:20px;*/
+}
+.p{
+	border:2px solid blue;
+	background-color: greenyellow;
+	border-radius: 2px;
+/*	border-radius:20px;*/
+}
+.valli{
+	height:200px;
+	width:300px;
+
+	text-align:center;
+
+}
+.c{
+	height:520px;
+	width:400px;
+	background-color:whitesmoke;	
+	float:right;
+	margin: 10px;
+}
+.e{
+	height:260px;
+	width:450px;
+	background-color:white;	
+	float:right;
+	padding:10px;
+	text-align:left;
+	margin:9px;
+}
+.madhu{
+	padding-left:10px;
+	padding-right:150px;
+}
+.potti{
+	padding-left:10px;
+	padding-right:180px;
+}
+span{
+	border:3px solid blue;
+	background-color: gray;
+	border-radius: 2px;
+	border-radius:20px;
+}
+.f{
+	height:235px;
+	width:450px;
+	background-color:white;	
+	float:right;
+	margin:5px;
+	text-align: left;
+	padding:10px;
+
+}
+.v{
+	height:2px;
+	width:400px;
+	background-color: lightgrey;
+}
+.k{
+	height: 2px;
+	width:380px;
+	background-color: blue;
+	float: left;
+	border-radius: 1px;
+	border:1px solid blue;
+}
+.i{
+	height:2px;
+	width:400px;
+	background-color: lightgrey;
+}
+.l{
+	height: 2px;
+	width:360px;
+	background-color: blue;
+	float: left;
+	border-radius: 1px;
+	border:1px solid blue;
+}
+.h{
+	height:2px;
+	width:400px;
+	background-color: lightgrey;
+}
+.o{
+	height: 2px;
+	width:320px;
+	background-color: blue;
+	float: left;
+	border-radius: 1px;
+	border:1px solid blue;
+}
+/*.d{*/
+/*	height:165px;*/
+/*	width:420px;*/
+/*	background-color:palevioletred;*/
+/*	margin:5px;/**/
+}

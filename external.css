@@ -1,0 +1,67 @@
+div{
+	height:280px;
+	width:580px;
+	background-color: whitesmoke;
+	padding:10px;
+	margin:5px;
+}
+.a{
+	height:190px;
+	width:150px;
+	border: 1px solid green;
+	float:left;
+	margin-right:12px;
+	border-radius: 20px;
+	background-color: lightgray;
+}
+.e{
+	border:1px solid blue;
+}
+.valli{
+	height:10px;
+	width:50px;
+	background-color: skyblue;
+	border: 1px solid green;
+	border-radius: 50px;
+	margin-bottom: 4px;
+}
+.b{
+	height:190px;
+	width:150px;
+	border:1px solid green;
+	float: left;
+	margin-right:12px;
+	border-radius: 20px;
+	background-color: lightgray;
+}
+.f{
+	border:1px solid blue;
+}
+.anu{
+	height:10px;
+	width:50px;
+	background-color: skyblue;
+	border: 1px solid green;
+	border-radius: 50px;
+	margin-bottom: 4px;
+}
+.c{
+	height:190px;
+	width:150px;
+	border:1px solid green;
+	float: left;
+	margin-right:12px;
+	border-radius: 20px;
+	background-color: lightgray;
+}
+.d{
+	border:1px solid blue;
+}
+.radha{
+	height:10px;
+	width:50px;
+	background-color: skyblue;
+	border: 1px solid green;
+	border-radius: 50px;
+	margin-bottom: 6px;
+}

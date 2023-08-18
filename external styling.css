@@ -1,0 +1,76 @@
+/*.external{
+	border: 3px solid blue;
+	background-color: violet;
+
+}
+#valli{
+	font-size: 40px;
+	font-family:cursive;
+}
+#home{
+	font-size: 40px;
+	font-family: cursive;
+}
+#about{
+	font-size: 30px;
+	font-family: serif;
+}
+#contact{
+	font-size: 30px;
+	font-family: serif;
+}
+p{
+	color:deepskyblue;
+	font-size: 50px;
+}
+div{
+	height:30px;
+	width:40px;
+	background-color: green;
+}
+*{
+	color:yellow;
+	font-family: cursive;
+	font-size: 20px;
+}
+input[type]{
+	color:pink;
+}
+input[type="number"]{
+	color:green;
+}
+input[type="password"]{
+	color:gray;
+}
+input[type="email"]{
+	color:red;
+}
+a[href]{
+	background-color: skyblue;
+	border: 2px solid blue;
+}
+input[type="tel"]{
+	color:orange;
+	border: 2px solid blue;
+}
+
+}
+a:hover{
+	color:red;
+	font-size: 30px;
+}
+a:visited{
+	color:yellowgreen;
+}
+a:active{
+	color:green;
+}
+div:hover{
+	background-color:palegoldenrod;
+	height: 200px;
+	width: 300px;
+
+}
+a:link{
+	color: darkred;
+}
